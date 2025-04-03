@@ -1,4 +1,4 @@
-#cracking-the-coding-interview
+# cracking-the-coding-interview
 
 This repo contains solutions for specific problems from the book "Cracking the Coding Interview 6th Edition".
 
